@@ -1,0 +1,6 @@
+Methods JS:
+
+
+Reduce
+Filter
+Sort
